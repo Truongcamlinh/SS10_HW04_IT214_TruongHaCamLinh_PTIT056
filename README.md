@@ -1,8 +1,4 @@
-# SS10 HW04: Xử lý lỗi Kafka Consumer với Retry và Dead Letter Queue
 
-**Sinh viên:** Truong Ha Cam Linh  
-**Lớp:** IT214  
-**Mã:** PTIT056
 
 ## 1. Bối cảnh
 
